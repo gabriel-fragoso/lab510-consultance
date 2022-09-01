@@ -153,18 +153,18 @@ export default function Home() {
         </nav>
 
         <div>
-          <a target="_blank" href="https://www.facebook.com/lab510Company/">
+          <a href="https://www.facebook.com/lab510Company/">
             <img className={styles.socialMedia} src="facebook.svg" alt="" />
           </a>
-          <a target="_blank" href="https://www.instagram.com/lab_510/">
+          <a href="https://www.instagram.com/lab_510/">
             <img className={styles.socialMedia} src="instagram.svg" alt="" />
           </a>
-          <a target="_blank" href="https://www.linkedin.com/company/lab510/">
+          <a href="https://www.linkedin.com/company/lab510/">
             <img className={styles.socialMedia} src="linkedin.svg" alt="" />
           </a>
           <a
             href="https://www.youtube.com/channel/UCYGm2S-glUw56-j4ExwKE8Q"
-            target="_blank"
+            
           >
             <img className={styles.socialMedia} src="youtube.svg" alt="" />
           </a>
