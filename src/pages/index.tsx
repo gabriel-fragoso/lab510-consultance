@@ -125,10 +125,6 @@ export default function Home() {
 
           <textarea
             className={styles.textarea}
-            name=""
-            id=""
-            cols="80"
-            rows="9"
           />
 
           <div className={styles.buttonArea}>
